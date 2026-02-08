@@ -5,6 +5,11 @@ This project focuses on analyzing sales data to understand overall business perf
 
 ---
 
+## Output Preview
+
+![Sales Dashboard] <img width="874" height="485" alt="image" src="https://github.com/user-attachments/assets/4e051f9e-34bc-43ed-95ae-c01b58a24178" />
+
+
 ## Input Data
 The project uses two CSV files as input:
 
